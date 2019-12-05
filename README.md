@@ -1,2 +1,2 @@
 # Advent Of Code 2019
- Some coding to kill time :)
+Just having some fun in December! 
