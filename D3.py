@@ -134,7 +134,6 @@ else:
 #part 2 
 
 #find the first interesection point 
-print(clash_points)
 minSteps = lineOneLen + lineTwoLen
 for points in clash_points:
     numberOfStepsLineOne = lineOneCoord.index(points) + 1 
